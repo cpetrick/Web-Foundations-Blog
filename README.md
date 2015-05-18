@@ -1,2 +1,2 @@
-# Web-Foundations-Blog
-C Petrick WF Blog First Commit
+# CP-Web-Foundations-Blog
+Petrick Web Foundations Blog
